@@ -1,0 +1,6 @@
+geometry
+geometry_test
+*.[oad]
+*.swp
+*.gitignore.save
+.vscode
